@@ -1,0 +1,5 @@
+# Art
+/assets
+
+# Dependencies
+/node_modules
